@@ -1,0 +1,8 @@
+{
+    "aliases": {
+        "quarkusinfo": {
+            "script-ref": "hello.java",
+            "description": "Simple Hello Script"
+        }
+    }
+}
